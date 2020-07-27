@@ -38,7 +38,7 @@ Hello viewers, in this project I have demonstrated the CRUD operation on PHP by 
 
 ## Searching a Note
 
-![insert_random_note](images/insert_random_note.png)
+![insert_random_notes](images/insert_random_notes.png)
 
 ![search_note](images/search_note.png)
 
